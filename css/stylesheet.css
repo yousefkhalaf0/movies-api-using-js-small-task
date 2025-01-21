@@ -1,0 +1,95 @@
+body {
+    background-color: black;
+}
+
+.mainCard {
+    text-align: center;
+}
+
+.card {
+    width: 470px;
+    height: 700px;
+    background-size: cover;
+    background-position: center;
+    margin: 10px;
+    display: inline-block;
+    border: 1px solid white;
+    position: relative;
+    background-repeat: no-repeat;
+}
+
+.info {
+    position: absolute;
+    top: 0;
+    background: rgba(255, 255, 255, 0.9);
+    padding: 5px;
+    box-sizing: border-box;
+    text-align: center;
+    border-bottom: 1px solid black;
+    width: 100%;
+}
+
+.info h2 {
+    margin: 0;
+    font-weight: bold;
+}
+
+.info p {
+    margin: 0;
+    font-size: 12px;
+    overflow: hidden;
+}
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.display {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 500px;
+    height: 700px;
+    background-size: cover;
+    background-position: center;
+}
+
+.close-btn {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 20px;
+    background-color: #ff4444;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.close-btn:hover {
+    background-color: #cc0000;
+}
+
+.btns {
+    font-size: 30px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.left {
+    position: absolute;
+    left: 0;
+}
+
+.right {
+    position: absolute;
+    right: 0;
+}
