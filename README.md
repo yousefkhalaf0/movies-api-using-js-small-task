@@ -26,16 +26,16 @@ This is a **Movie and TV Show Search App** built with **HTML5**, **CSS3**, and *
 ### **Screenshots**  
 
 #### **Home Page (Trending Movies)**  
-Home Page: ![image](https://github.com/user-attachments/assets/9916831e-3ca3-4c7e-86d8-89b3e5a76c8b)
+![image](https://github.com/user-attachments/assets/4d3d4c57-31a4-4a67-be59-bb134827860b)
 
 #### **Search by Category (TV Shows)**  
-Search TV Shows: ![image](https://github.com/user-attachments/assets/fa10615a-6546-445c-ba01-6291de336125)
+![image](https://github.com/user-attachments/assets/fa10615a-6546-445c-ba01-6291de336125)
 
 #### **Search by Category and ID (People)**  
-Search Spesific Actor: ![image](https://github.com/user-attachments/assets/52aea234-dce5-4d26-9399-4b65d868f040)
+![image](https://github.com/user-attachments/assets/52aea234-dce5-4d26-9399-4b65d868f040)
 
 #### **Interactive Pop-Up (Movie Details)**  
-Pop-Up Details: ![image](https://github.com/user-attachments/assets/4caff066-1893-416d-abb5-f299be193edb)
+![image](https://github.com/user-attachments/assets/4caff066-1893-416d-abb5-f299be193edb)
 
 #### **Responsive Design (Mobile View)**  
-Mobile View: ![image](https://github.com/user-attachments/assets/8f7629bf-32cd-4aac-9565-63c97d00a005)
+![image](https://github.com/user-attachments/assets/8f7629bf-32cd-4aac-9565-63c97d00a005)
