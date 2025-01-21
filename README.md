@@ -38,4 +38,4 @@ This is a **Movie and TV Show Search App** built with **HTML5**, **CSS3**, and *
 ![image](https://github.com/user-attachments/assets/4caff066-1893-416d-abb5-f299be193edb)
 
 #### **Responsive Design (Mobile View)**  
-![image](https://github.com/user-attachments/assets/8f7629bf-32cd-4aac-9565-63c97d00a005)
+![image](https://github.com/user-attachments/assets/c52884f9-9ba1-471a-847c-300a8592d17d)
